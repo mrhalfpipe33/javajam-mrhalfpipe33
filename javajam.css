@@ -1,16 +1,16 @@
 body {
-  background-color: #E6E6FA;
-  color: #191970;
+  background-color: #F5F5DC;
+  color: #2E0000;
 }
 
 h1 {
-  background-color: #191970;
-  color: #E6E6FA
+  background-color: #D2B48C;
+  color: #000000;
 }
 
 h2 {
-  background-color: #AEAED4;
-  color: #191970;
+  background-color: #F5F5DC;
+  color: #2E0000;
 }
 
 .feature {
@@ -25,8 +25,7 @@ h2 {
   color: #6A6AA7
 }
 
-h1 {
-  background-color: #191970;
-  color: #E6E6FA;
-  margin-bottom: 0px;
+footer {
+  background-color: #D2B48C;
+  color: #2E0000;
 }
